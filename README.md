@@ -4,7 +4,27 @@
 I'm an IT technician student who is diving deep into the world of **programming and artificial intelligence**.
 
 - 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning to be an IT technician
+
+## Skills
+
+### Programming Languages
+
+### Frontend Development
+
+### Backend Development
+
+### AI/ML
+
+### Database
+
+### Devops
+
+### Framework
+
+### Software
+
+### Other
 
 ## Connect with me :
 
